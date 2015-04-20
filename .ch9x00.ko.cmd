@@ -1,0 +1,1 @@
+cmd_/home/iont/Desktop/CH9100DRV_130607/linux/ch9x00.ko := ld -r -m elf_x86_64 -T /usr/src/linux-headers-3.11.0-17-generic/scripts/module-common.lds --build-id  -o /home/iont/Desktop/CH9100DRV_130607/linux/ch9x00.ko /home/iont/Desktop/CH9100DRV_130607/linux/ch9x00.o /home/iont/Desktop/CH9100DRV_130607/linux/ch9x00.mod.o
